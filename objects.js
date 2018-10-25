@@ -4,7 +4,7 @@ var playlist = {
 
 function updatePlaylist(playlist, artist, song) {
   MyBloodyValentine: 'lol'
-  Phil ochs: 'lolol'
+  Phil Ochs: 'lolol'
   Slowdive: 'lololol'
 }
 
