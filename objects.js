@@ -1,5 +1,5 @@
 var playlist = {
-  MyBloodyValentine: 'lol'
+
 };
 
 function updatePlaylist(playlist, artist, song) {
@@ -7,6 +7,5 @@ function updatePlaylist(playlist, artist, song) {
 }
 
 function removeFromPlaylist(playlist, artist) {
-  delete playlist['My Bloody Valentine']
   delete playlist['Slowdive']
 }
